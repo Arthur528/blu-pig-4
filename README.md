@@ -16,9 +16,17 @@ Coding assessments are an important part of the interview process for developers
 
 ## URL's
 
+Website URL:
+https://arthur528.github.io/blu-pig-4/
+GitHud:
 https://github.com/Arthur528/blu-pig-4
 
 ## Pictures
+
+![codequiz1](https://user-images.githubusercontent.com/113845043/193827405-96b26307-e126-448f-8d9e-2c122cef8aba.png)
+![codequiz2](https://user-images.githubusercontent.com/113845043/193827459-958ce82b-58f2-4a56-b963-46c67b15e5e8.png)
+![codequiz3](https://user-images.githubusercontent.com/113845043/193827487-a56acfc4-2d77-4282-880c-0bd05575e701.png)
+![codequiz4](https://user-images.githubusercontent.com/113845043/193827501-da62acef-ff18-4b7e-ad63-ce6f10f2961a.png)
 
 ## License
 
